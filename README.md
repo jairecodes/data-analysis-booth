@@ -21,7 +21,7 @@ All data are sourced from the **FRED API** (CPI, PPI, Consumer Sentiment, recess
 
 ---
 
-## Key Finding
+## Key findings
 
 Cleaning products are significantly more likely to be classified as anomalously priced post-2019 relative to control categories (interaction coefficients: 0.84 post-2019, 0.33 post-COVID). Markup is consistently positive and sentiment consistently negative across specifications, weakening cost-side and demand-pull explanations respectively.
 
